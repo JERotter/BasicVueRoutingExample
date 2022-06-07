@@ -1,10 +1,8 @@
 <template>
-  <v-app>
-    <Navibar/>
-    <v-content>
-      <h1>This is an about page</h1>
-    </v-content>
-  </v-app>
+    <v-app>
+        <Navibar/>
+        <h1>Will be a contact us page!!</h1>
+    </v-app>
 </template>
 
 <script>
